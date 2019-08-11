@@ -1,0 +1,2 @@
+# tiny
+Test npm module
